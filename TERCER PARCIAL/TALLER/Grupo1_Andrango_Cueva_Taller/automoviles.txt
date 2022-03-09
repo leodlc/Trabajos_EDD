@@ -1,0 +1,5 @@
+1,PAA0000,Buggatti,Relampago,Rojo
+2,SAA0000,Nisan,Serie 1,Negro
+3,PAA0001,Alfa Romeo,4c,Amarillo
+4,IAA0000,Audi,Gt-deportivo,Verde
+5,LAA0000,Ford,Focus,Azul
